@@ -7,7 +7,7 @@ It’s ideally a time management system
 #### Trek
 ##### Description
 The overall, longest term progress tracker with Character growth as a motivation.
-##### Arguments
+##### Variables
 -Lowest EXP(RedLine) = Lvl 12
 -Highest EXP = lvl 21.
 ```
@@ -42,7 +42,7 @@ Experience Points	Level	Proficiency Bonus
 #### Term/Quarter
 ##### Description
 A Length of time in which one set of courses takes place. (Ex: *"Fall 2017 was the worst term ever."*)
-##### Arguments
+##### Variables
 -EXP Range based on credits and GPA
 -Courses
 -Credit Total
@@ -50,7 +50,7 @@ A Length of time in which one set of courses takes place. (Ex: *"Fall 2017 was t
 #### Course Class
 ##### Description
 A Quantity of EXP in the Trek that is based on grade percentage.
-##### Arguments
+##### Variables
 -When is the Course
 -Point Limit
 -Course Credit
@@ -62,7 +62,7 @@ A Quantity of EXP in the Trek that is based on grade percentage.
 #### Assingment Class
 ##### Description
 A Quantity of EXP in a Course that is based on grade percentage.
-##### Arguments
+##### Variables
 - Start date
 - Due Date
 - Course
