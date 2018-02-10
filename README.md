@@ -8,8 +8,8 @@ It’s ideally a time management system
 ##### Description
 The overall, longest term progress tracker with Character growth as a motivation.
 ##### Variables
--Lowest EXP(RedLine) = Lvl 12
--Highest EXP = lvl 21.
+- Lowest EXP(RedLine) = Lvl 12
+- Highest EXP = lvl 21.
 ```
 Property of Wizards of the Coast
 Experience Points	Level	Proficiency Bonus
@@ -32,32 +32,32 @@ Experience Points	Level	Proficiency Bonus
 225,000	17	+6
 265,000	18	+6
 305,000	19	+6
-355,000 20  +7
+355,000	20	+7
 410,000
 ```
--Level up screen is a Crystal Ball which scrolls through the classes”Previous and Next”
--You select your character race when you start
--Make web based on the 6 skill points you can make the overall education timeline into a quest
+- Level up screen is a Crystal Ball which scrolls through the classes”Previous and Next”
+- You select your character race when you start
+- Make web based on the 6 skill points you can make the overall education timeline into a quest
 
 #### Term/Quarter
 ##### Description
 A Length of time in which one set of courses takes place. (Ex: *"Fall 2017 was the worst term ever."*)
 ##### Variables
--EXP Range based on credits and GPA
--Courses
--Credit Total
+- EXP Range based on credits and GPA
+- Courses
+- Credit Total
 
 #### Course Class
 ##### Description
 A Quantity of EXP in the Trek that is based on grade percentage.
 ##### Variables
--When is the Course
--Point Limit
--Course Credit
--Tuition Total
--Minimum percent grade to get a C (int Percent_RedLine)
--Minimum point grade to get a C (double Point_RedLine)
--The closer to 100% the more EXP you get (make this a non linear relationship so 100% is a lot of EXP)
+- When is the Course
+- Point Limit
+- Course Credit
+- Tuition Total
+- Minimum percent grade to get a C (int Percent_RedLine)
+- Minimum point grade to get a C (double Point_RedLine)
+- The closer to 100% the more EXP you get (make this a non linear relationship so 100% is a lot of EXP)
 
 #### Assingment Class
 ##### Description
